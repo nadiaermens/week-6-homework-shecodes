@@ -1,0 +1,99 @@
+.container {
+  display: block;
+  margin: 10% auto;
+  border: 1px solid lightgray;
+  padding: 20px;
+  border-radius: 4px;
+  max-width: 600px;
+}
+
+.today {
+  display: block;
+  color: lightslategray;
+  margin-top: 5%;
+  margin-left: 30%;
+}
+
+h1 {
+  color: lightslategray;
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+h2 {
+  color: lightslategray;
+  font-size: 0.9em;
+}
+
+.showers {
+  color: lightslategray;
+}
+
+h3 {
+  font-size: 1em;
+  margin: 0;
+}
+
+.icon {
+  font-size: 1.7em;
+}
+
+h4 {
+  font-size: 0.8em;
+}
+
+h5 {
+  color: lightslategray;
+  font-size: 0.7em;
+  margin-bottom: 4px;
+}
+
+h6 {
+  color: lightslategray;
+  font-size: 1em;
+  margin: 0;
+}
+
+h7 {
+  color: lightslategray;
+  font-size: 0.6em;
+}
+
+.week {
+  margin-top: 5%;
+}
+
+footer {
+  font-size: 10px;
+  text-align: center;
+}
+
+.fahrenheit {
+  font-size: 0.8em;
+  color: #0b5ed7;
+}
+
+.fahrenheit:hover {
+  text-decoration: underline;
+  color: darkblue;
+  cursor: pointer;
+}
+
+.celsius {
+  font-size: 0.8em;
+  color: #0b5ed7;
+}
+
+.celsius:hover {
+  text-decoration: underline;
+  color: darkblue;
+  cursor: pointer;
+}
+
+.or {
+  font-size: 0.7em;
+}
+
+#degrees {
+  font-size: 1.5em;
+}
